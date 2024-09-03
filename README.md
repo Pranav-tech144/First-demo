@@ -1,2 +1,3 @@
 # First-demo
-This is my first github Repository
+This is my first git Repository
+Author - Pranav Dwivedi
